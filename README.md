@@ -4,12 +4,12 @@ This project replicates Apple's iPhone 15 Pro website using React.js and Tailwin
 
 **Tech Stack**
 
-React.js
-Three.js
-React Three Fiber
-React Three Drei
-GSAP (Greensock)
-Vite
+React.js,
+Three.js,
+React Three Fiber,
+React Three Drei,
+GSAP (Greensock),
+Vite, and
 Tailwind CSS
 
 **Features**
